@@ -1,0 +1,38 @@
+body {
+  background: #d6e1f0;
+  font-family: Outfit;
+  font-weight: 700;
+}
+
+.card {
+  border: 1px solid transparent;
+  border-radius: 10px;
+  padding: 10px;
+  max-width: 250px;
+  margin: 150px auto;
+  background: hsl(0, 0%, 100%);
+}
+
+.card-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.card-title {
+  text-align: center;
+  opacity: 0.8;
+}
+.card-text {
+  text-align: center;
+  font-weight: 400;
+  opacity: 0.4;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
